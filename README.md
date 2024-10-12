@@ -3,7 +3,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 # Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Social Links Profile](https://ttyn08.github.io/SocialLinksProfile/)
 
 # Built with
 - Semantic HTML5 markup
